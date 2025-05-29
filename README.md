@@ -1,4 +1,4 @@
-# CODTECH-TASK 1
+# CODTECH-INTERNSHIP-TASK 1
 
 Welcome to my Data Science Internship Portfolio!
 
